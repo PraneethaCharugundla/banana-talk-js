@@ -56,3 +56,16 @@ textarea{
         margin-right: auto;
         width : 5rem ;
  }
+ P{
+    text-align: center;
+    color: black;
+ }
+ #socials {
+    display: flex;
+    flex-direction : center;
+    justify-content : space-between;
+    width: 10%;
+    margin-left: auto;
+    margin-right:auto;
+   }
+ 
