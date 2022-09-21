@@ -16,9 +16,10 @@
     align-items : center;
     flex-direction : column;
 }
-h1 {
+h1 ,h2
+{
     text-align: center;
-    color: black;
+    color : black;
     margin : auto;
 }
 body {
@@ -38,6 +39,7 @@ textarea{
     display: block;
     padding: 1rem;
     margin:auto;
+    border-radius: 20px
     
     }
    #output {
@@ -49,6 +51,7 @@ textarea{
     display: block;
     background-color: white;
     font-family: 'Combo', cursive;
+    border-radius: 20px;
  } 
  #btn-translate{
         margin-top : 1rem;
